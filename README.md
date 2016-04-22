@@ -1,6 +1,6 @@
 #Задание
 
-Склонируйте код из репозитория: `git clone https://github.com/shri-msk-2016/task3.git`
+Склонируйте код из репозитория: `git clone https://github.com/shri-msk-2016/task3.git`, перейдите в директорию проекта `cd task3`.
 
 Выполните `npm install`, а затем `npm start` и откройте приложение в браузере (<http://localhost:3000>).
 
